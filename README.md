@@ -9,6 +9,18 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+NOTES:
+to modernise - easier to read rather than multiple div elements, clear difference in elements
+make more accessible for disapbled/other abled persons/people
+more likely to show up on search engines - promotes good business for client
+title more informative for customers
+fixed SEO link that wasnt performing correctly beforehand- makes the website more effective, easier to move around/read/seperate
+alt alternative writing for images support blind people with screen readers and allows users to see what intended image is if website is slow or not functioning
+
+I learnt semantic elements, where to use them, to always update css, how to use screen readers, how to research if something goes wrong/ helpful resources to follow, to make sure I save before opening webpage, how to commit to git hub repo, how to look at previous commits, to comment out old code before deleting, how to comment out code in html and css, helpful undo, redo, selection buttons available such as control z to undo and control/ to comment out whole line, control y redo, how to save without using mouse contol s  - makes it quicker more time efficiant. how to deploy, how to effectively use VS code such as opening a whole folder rather than individual elements, how to organise my work so it is less confusing and my time, importance of chevron symbols, to make code neater and less repeatative, git commands
+
+how to use website- click links at top (navigation) to be redirected to that specific section on the page
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
