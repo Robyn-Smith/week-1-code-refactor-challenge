@@ -17,9 +17,9 @@ title more informative for customers
 fixed SEO link that wasnt performing correctly beforehand- makes the website more effective, easier to move around/read/seperate
 alt alternative writing for images support blind people with screen readers and allows users to see what intended image is if website is slow or not functioning
 
-I learnt semantic elements, where to use them, to always update css, how to use screen readers, how to research if something goes wrong/ helpful resources to follow, to make sure I save before opening webpage, how to commit to git hub repo, how to look at previous commits, to comment out old code before deleting, how to comment out code in html and css, helpful undo, redo, selection buttons available such as control z to undo and control/ to comment out whole line, control y redo, how to save without using mouse contol s  - makes it quicker more time efficiant. how to deploy, how to effectively use VS code such as opening a whole folder rather than individual elements, how to organise my work so it is less confusing and my time, importance of chevron symbols, to make code neater and less repeatative, git commands
+I learnt semantic elements, where to use them, to always update css, how to use screen readers, how to research if something goes wrong/ helpful resources to follow, to make sure I save before opening webpage, how to commit to git hub repo, how to look at previous commits, to comment out old code before deleting, how to comment out code in html and css, helpful undo, redo, selection buttons available such as control z to undo and control/ to comment out whole line, control y redo, how to save without using mouse contol s  - makes it quicker more time efficiant. how to deploy, how to effectively use VS code such as opening a whole folder rather than individual elements, how to organise my work so it is less confusing and my time, importance of chevron symbols, to make code neater and less repeatative, git commands, how to complete class challenges, how to ask for university support, how to complete read me files
 
-how to use website- click links at top (navigation) to be redirected to that specific section on the page
+
 
 ## Table of Contents (Optional)
 
@@ -43,6 +43,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
+NOTES
+how to use website- click links at top (navigation) to be redirected to that specific section on the page
 
 ## Credits
 
