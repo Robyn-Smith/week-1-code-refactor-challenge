@@ -6,6 +6,9 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <title> Horiseon Social Solution Services </title>
 </head>
+<!-- The title has been changed to be more descriptive. This supports inclusion and accessibility 
+    for those using screen readers, to support search engine optimisation and to summerise the content on 
+    the page-->
 
 <body>
     <header>
@@ -24,10 +27,17 @@
             </ul>
         </nav>
     </header>
+<!--The repetative, outdated and none descriptive <div> tags have been changed to <header> elements with
+    nested navigation tags. This modernises the code to support semantic elements, which therefore makes 
+    the code easier to read when developing/editing the code in the future.-->
 
     <figure> <img src="../week-1-code-refactor-challenge/assets/images/digital-marketing-meeting.jpg" alt="digital-marketing-meeting">
     </figure>
-    <!-- This is an image of a meeting which is referanced and styled in CSS -->
+    <!-- A figure element has been added to replace <div> tags and to referance  andstyling in CSS. This image 
+        referance has been moved from CSS to make it easier to change the image in the future and to be able 
+        to add alterantive text incase the image does not load due to internet issues and to make it more inclusive 
+        for those using screen readers.
+     -->
 
     <article>
         <section id="search-engine-optimization" class="search-engine-optimization">
