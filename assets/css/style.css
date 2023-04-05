@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/*figure*/.hero {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -62,13 +62,6 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*removed hero class and replaced with semantic figure element to match changes 
-in html.*/
-
-/* the background image url has been removed and been added into the html to add
-alt tags to make the website more accessible for screen readers, it also supports
-search engine optimisation and allows users to see an image description if the image
-does not load.*/
 
 .float-left {
     float: left;
@@ -85,7 +78,7 @@ article {
     display: inline-block;
     margin-left: 20px;
 }
-/*The hero class has been removed and replaced with a semantic article 
+/*The content class has been removed and replaced with a semantic article 
 element to match changes to html. */
 
 aside {
