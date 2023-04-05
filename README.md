@@ -9,6 +9,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+This website
 NOTES:
 to modernise - easier to read rather than multiple div elements, clear difference in elements
 make more accessible for disapbled/other abled persons/people
