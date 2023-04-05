@@ -60,10 +60,11 @@ p {
     margin-bottom: 25px;
     object-fit: cover;
     object-position: center;
-    /*background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;*/
 }
+/* The background image has been removed from css and has been placed in the html to allow for 
+alternative text. Due to the image no longer being a background image background-size and 
+background-position CSS attributes have been replaced with object-fit and object-position
+as the image is now an object.*/
 
 .float-left {
     float: left;
@@ -187,9 +188,9 @@ section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* all h2 CSS has been grouped together using the matching semantic
+/* All h2 CSS has been grouped together using the matching semantic
 section element in html. This was to remove repetitive CSS and made the 
-code neater and shorter. this therefore make the code easier to read and
+code neater and shorter. This therefore make the code easier to read and
 edit in the future.*/
 
 footer {
