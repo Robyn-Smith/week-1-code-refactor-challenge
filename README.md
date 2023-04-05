@@ -23,10 +23,7 @@ In summary, the code refactoring supported my learning of:
 
 This website is very simple to use. Select one of the nativation links in the top right corner; as seen in image below these are Search Engine Optimisation, Online Reputation Management and Social Media Marketing. This will redirect the user to the according section on the page with further information on the topic. 
 
-
-![The Horiseon webpage](/assets/images/screenshot-horiseon-webpage.png)
-
-
+![The top of the Horiseon webpage, which contains a header, navigation options and a large image of a digitital marketing meeting](/assets/images/screenshot-horiseon-webpage.png)
 
 ## License
 N/A
