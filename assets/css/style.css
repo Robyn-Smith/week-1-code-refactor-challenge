@@ -191,7 +191,8 @@ section h2 {
 /* All h2 CSS has been grouped together using the matching semantic
 section element in html. This was to remove repetitive CSS and made the 
 code neater and shorter. This therefore make the code easier to read and
-edit in the future.*/
+edit in the future. There is potential for further rationalisation for CSS 
+as there are a number of repeptitive blocks that contain the same atrributes*/
 
 footer {
     padding: 30px;
