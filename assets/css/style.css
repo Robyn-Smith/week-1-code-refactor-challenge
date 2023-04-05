@@ -62,7 +62,7 @@ p {
     object-position: center;
 }
 /* The background image has been removed from css and has been placed in the html to allow for 
-alternative text. Due to the image no longer being a background image background-size and 
+alternative text. Due to the image no longer being a background image, background-size and 
 background-position CSS attributes have been replaced with object-fit and object-position
 as the image is now an object.*/
 
